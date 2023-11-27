@@ -3,7 +3,7 @@
 Author: Papagrigoriou Vasileios Savvas (vpapagr@csd.auth.gr)
 
 ## Introduction
-This document outlines exercises conducted in the AI class, focusing on Logistic Regression, Linear Regression, and Instance-Based Learning. The exercises involve analyzing a diabetes dataset and a wine quality dataset using various techniques to predict outcomes and understand key features.
+This document outlines exercises conducted in the ML class, focusing on Logistic Regression, Linear Regression, and Instance-Based Learning. The exercises involve analyzing a diabetes dataset and a wine quality dataset using various techniques to predict outcomes and understand key features.
 
 ## Exercise 1: Logistic Regression
 Detailed steps and analysis for implementing logistic regression to predict diabetes outcomes, using accuracy as the evaluation metric.
